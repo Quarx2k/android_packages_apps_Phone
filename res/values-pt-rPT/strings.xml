@@ -622,12 +622,12 @@
     <string name="vibrate_outgoing">Vibrar ao atender</string>
     <string name="vibrate_outgoing_sum">Vibra quando a ligação for atendida</string>
     <string name="vibrate_45">Vibrar a cada 45 segundos</string>
-    <string name="vibrate_45_sum">Vibra a cada 45 segundos durante a ligação</string>
+    <string name="vibrate_45_sum">Vibrar aos 45 segundos de cada minuto durante chamada efectuada</string>
     <string name="vibrate_hangup">Vibrar ao desligar</string>
     <string name="vibrate_hangup_sum">Vibra quando encerra a ligação</string>
-    <string name="vibrate_call_waiting">Vibrar em espera</string>
+    <string name="vibrate_call_waiting">Vibrar c/ chamada em espera</string>
     <string name="vibrate_call_waiting_sum">Vibra com ligação em espera</string>
-    <!-- End Advanced Settings -->
+   <!-- End Advanced Settings -->
     
     <!-- Voice quality filter -->
     <string name="voice_quality_preferences_title">Qualidade de voz</string>
@@ -665,12 +665,7 @@
     <string name="keep_proximity_sensor_on_sum">Não desligar o sensor de proximidade durante as ligações utilizando um headset.</string>
     <string name="lockscreen_if_call_ends_with_screenoff">Bloquear ao terminar chamada</string>
     <string name="lockscreen_if_call_ends_with_screenoff_sum">Bloqueia automaticamente quando uma chamada termina e o ecrã está desligado</string>
-    <string name="vibrate_outgoing">Vibrar ao atender</string>
-    <string name="vibrate_hangup">Vibrar ao desligar</string>
-    <string name="vibrate_call_waiting">Vibrar c/ chamada em espera</string>
-    <string name="vibrate_45">Vibrar a cada 45 segundos</string>
-    <string name="vibrate_45_sum">Vibrar aos 45 segundos de cada minuto durante chamada efectuada</string>
     <string name="national_roaming">Roaming de dados nacional</string>
     <string name="national_roaming_enable">Conectar aos serviços de dados quando estiver em roaming nacional</string>
-    <string name="national_roaming_disable">Não conectar aos serviços de dados quando estiver em roaming nacional</string>
+    <string name="national_roaming_disable">Não conectar aos serviços de dados quando estiver em roaming nacional</string> 
 </resources>
