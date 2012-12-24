@@ -665,4 +665,11 @@
     <string name="national_roaming">Roaming de dados nacional</string>
     <string name="national_roaming_enable">Conectar aos serviços de dados quando estiver em roaming nacional</string>
     <string name="national_roaming_disable">Não conectar aos serviços de dados quando estiver em roaming nacional</string>
+    
+      <!-- Call recording -->
+    <string name="call_recording_title">Gravar chamada</string>
+    <string name="call_recording_summary">"ATENÇÃO: A gravação de chamadas é considerado ilegal em alguns países! Verifique nas leis locais antes de habilitar esta opção! Quando habilitado, as gravações serão armazenadas na pasta 'CallRecordings' no Cartão SD."</string>
+    
+
+     
 </resources>
